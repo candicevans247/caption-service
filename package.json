@@ -12,7 +12,7 @@
     "axios": "^1.6.0",
     "cors": "^2.8.5",
     "multer": "^1.4.5-lts.1",
-    "captions.js": "^1.0.0"
+    "captions.js": "^1.0.7"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
